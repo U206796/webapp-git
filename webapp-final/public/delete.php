@@ -42,7 +42,7 @@
 <?php include "templates/header.php"; ?>
 
 
-<h2>Delete a user</h2>
+<h2>Delete a Review</h2>
 
 <?php if ($success) echo $success; ?>
 
